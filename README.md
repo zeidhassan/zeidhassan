@@ -1,64 +1,27 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Zeid+Hassan;Backend+Developer+%7C+Student;Node.js+%26+React+Enthusiast;Linux+User+%7C+Coffee+Powered" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=FF2D2D&center=true&vCenter=true&width=700&lines=Zeid+Hassan;Backend+Developer+%7C+Student;Node.js+%7C+React+%7C+Linux;Coffee+%26+Music+Driven" />
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2D2D,100:700000&height=2" width="100%" />
 
-<p align="center">
-🚀 Backend-focused developer with experience in web applications  
-☕ Runs on coffee, code, and Linux  
-🎵 Writes code with music in the background  
-</p>
+### About
 
----
+I’m a student developer focused mainly on backend systems and web applications.  
+Most of my work revolves around building APIs, handling data, and making things work reliably behind the scenes.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,100:9D00FF&height=3" width="100%" />
+I mainly work with Node.js and React, and I use Git and Linux as my daily tools.
 
-### 🧠 About Me
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2D2D,100:700000&height=2" width="100%" />
 
-- 🎓 Student developer  
-- 🛠️ Focused on **backend development** and **web applications**  
-- 🧩 Comfortable working with **Node.js**, **React**, **Git**, and **Linux**  
-- 🔍 Enjoys building clean, logical systems and APIs  
+### Stack
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,100:9D00FF&height=3" width="100%" />
-
-### 💻 Tech Stack
-
-**Main Languages**
+**Primary**
 <p>
 <img src="https://skillicons.dev/icons?i=js,java,python,cpp" />
 </p>
 
-**Other Languages & Tools**
+**Other**
 <p>
-<img src="https://skillicons.dev/icons?i=cs,r,html,css,mysql,git,linux,nodejs,react" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,100:9D00FF&height=3" width="100%" />
-
-### 📈 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=zeidhassan&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeidhassan&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,100:9D00FF&height=3" width="100%" />
-
-### ☕ Extra
-
-- 🎧 Codes better with music  
-- 🐧 Prefers Linux over everything  
-- ⚙️ Likes backend logic more than UI pixels  
-
----
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=Always+learning.;Always+building.;Always+improving." />
-</p>
+<img src="https://skillicons.dev/icons?i=cs,r,html,css,mysql,node
