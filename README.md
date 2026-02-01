@@ -1,46 +1,24 @@
-<div align="center">
+# 💫 About Me:
+I’m a student developer focused mainly on backend systems and web applications.<br>Most of my work revolves around building APIs, handling data, and making things work reliably behind the scenes.<br><br>I mainly work with Node.js and React, and I use Git and Linux as my daily tools.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=FF2D2D&center=true&vCenter=true&width=700&lines=Zeid+Hassan;Backend+Developer+%7C+Student;Node.js+%7C+React+%7C+Linux;Coffee+%26+Music+Driven" />
 
-</div>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zaid.hartha) 
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2D2D,100:700000&height=2" width="100%" />
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=zeidhassan&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=zeidhassan&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zeidhassan&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### About
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
-I’m a student developer focused mainly on backend systems and web applications.  
-Most of my work revolves around building APIs, handling data, and making things work reliably behind the scenes.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=zeidhassan&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-I mainly work with Node.js and React, and I use Git and Linux as my daily tools.
+---
+[![](https://visitcount.itsvg.in/api?id=zeidhassan&icon=2&color=4)](https://visitcount.itsvg.in)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2D2D,100:700000&height=2" width="100%" />
-
-### Stack
-
-**Primary**
-<p>
-<img src="https://skillicons.dev/icons?i=js,java,python,cpp" />
-</p>
-
-**Other**
-<p>
-<img src="https://skillicons.dev/icons?i=cs,r,html,css,mysql,nodejs,react,git,linux" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2D2D,100:700000&height=2" width="100%" />
-
-### GitHub
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=zeidhassan&show_icons=true&theme=dark&title_color=ff2d2d&icon_color=ff2d2d&text_color=ffffff&bg_color=0d1117&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeidhassan&layout=compact&theme=dark&title_color=ff2d2d&text_color=ffffff&bg_color=0d1117&hide_border=true" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2D2D,100:700000&height=2" width="100%" />
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=1000&color=FF2D2D&center=true&vCenter=true&width=500&lines=Build+systems.;Write+clean+code.;Keep+learning." />
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
